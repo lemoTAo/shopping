@@ -1,5 +1,4 @@
-# 初始化
+购物PC
 
-npm i # shopping
-# shopping
-# shopping
+npm i #初始化项目
+详情查看配置文件
